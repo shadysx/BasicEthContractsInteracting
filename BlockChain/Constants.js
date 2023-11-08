@@ -1,0 +1,1 @@
+let chainlinkConsumer = "0x8cBA983b8eF74C1F0522C8dE67C372BdcEeD5b4e";
